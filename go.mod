@@ -1,4 +1,4 @@
-module github.com/wxl-server/idl_gen
+module github.com/nas-fish/idl_gen
 
 go 1.23
 
