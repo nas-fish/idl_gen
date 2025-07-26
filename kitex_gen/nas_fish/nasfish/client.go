@@ -6,7 +6,7 @@ import (
 	"context"
 	client "github.com/cloudwego/kitex/client"
 	callopt "github.com/cloudwego/kitex/client/callopt"
-	nas_fish "github.com/wxl-server/idl_gen/kitex_gen/nas_fish"
+	nas_fish "github.com/nas-fish/idl_gen/kitex_gen/nas_fish"
 )
 
 // Client is designed to provide IDL-compatible methods with call-option parameter for kitex framework.

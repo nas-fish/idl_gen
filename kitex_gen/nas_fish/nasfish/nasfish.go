@@ -7,7 +7,7 @@ import (
 	"errors"
 	client "github.com/cloudwego/kitex/client"
 	kitex "github.com/cloudwego/kitex/pkg/serviceinfo"
-	nas_fish "github.com/wxl-server/idl_gen/kitex_gen/nas_fish"
+	nas_fish "github.com/nas-fish/idl_gen/kitex_gen/nas_fish"
 )
 
 var errInvalidMessageType = errors.New("invalid message type for service method handler")

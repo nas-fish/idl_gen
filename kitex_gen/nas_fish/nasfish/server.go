@@ -3,7 +3,7 @@ package nasfish
 
 import (
 	server "github.com/cloudwego/kitex/server"
-	nas_fish "github.com/wxl-server/idl_gen/kitex_gen/nas_fish"
+	nas_fish "github.com/nas-fish/idl_gen/kitex_gen/nas_fish"
 )
 
 // NewServer creates a server.Server with the given handler and options.
